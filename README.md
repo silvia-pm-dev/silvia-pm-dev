@@ -1,4 +1,4 @@
-**Language / Idioma:** [Català](#-catala) | [Español](#-español) | [English](#-english)
+**Language / Idioma:** [Català](#-catala) | [Español](#-espanol) | [English](#-english)
 ---
 <a name="-catala"></a>
 # Hola! Sóc la Sílvia!
@@ -27,7 +27,7 @@ Després d'anys d'experiència laboral com a encarregada gestionant estoc, resol
 - **Email:** [silvia.pm.dev@gmail.com](mailto:silvia.pm.dev@gmail.com)
 
 - ---
-<a name="-español"></a>
+<a name="-espanol"></a>
 # Hola! Soy Sílvia!
 
 Estudiante de segundo curso de **Desarrollo de Aplicaciones Web (DAW)** en el Institut Obert de Catalunya (IOC), enfocada tanto en el back-end (**Java**) como en el front-end (**JavaScript, HTML, CSS**) y bases de datos.
