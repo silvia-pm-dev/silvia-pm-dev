@@ -16,7 +16,7 @@ Després d'anys d'experiència laboral com a encarregada gestionant estoc, resol
 - **Sistemes:** Windows, Linux/Ubuntu, MacOS
 
 ### Projectes 
-- **Sistema de gestió d'apostes (Bets Management):** Gestió i registre d'apostes amb Java, POO, Hibernate i debugging
+- **Sistema de gestió d'apostes (Bets Management):** Gestió i registre d'apostes amb Java, POO, Hibernate i debugging<br>
   [Enllaç al projecte](https://github.com/silvia-pm-dev/silvia-pm-dev)
 - **Monitor de qualitat de l'aire (IoT):** Sistema autònom de lectura ambiental en temps real integrant microcontroladors i sensors de partícules (C/C++, Arduino)
 - **Mini-aplicacions Web Interactives:** Interfícies dinàmiques amb manipulació del DOM i disseny responsiu (JavaScript, HTML5, CSS3)
@@ -42,7 +42,7 @@ Tras años de experiencia laboral como encargada gestionando tienda, resolviendo
 - **Sistemas:** Windows, Linux/Ubuntu, MacOS
 
 ### Proyectos 
-- **Sistema de gestión de apuestas (Bets Management):** Aplicación desarrollada en Java con POO, Hibernate, gestión de historiales y debugging.
+- **Sistema de gestión de apuestas (Bets Management):** Aplicación desarrollada en Java con POO, Hibernate, gestión de historiales y debugging.<br>
  [Enlace al proyecto](https://github.com/silvia-pm-dev/silvia-pm-dev)
 - **Monitor de calidad del aire (Proyecto IoT):** Dispositivo autónomo de lectura ambiental en tiempo real mediante microcontroladores y sensores de partículas (C/C++, Arduino)
 - **Mini-aplicacions Web Interactives:** Interfícies dinàmiques amb manipulació del DOM i disseny responsiu (JavaScript, HTML5, CSS3)
@@ -69,7 +69,7 @@ Bringing years of professional experience as a store manager handling high-press
 - **Systems:** Windows, Linux/Ubuntu, macOS
 
 ### Projects
-- **Bets Management System:** Desktop application designed to manage, register, and calculate betting odds using Java, OOP, Hibernate, and advanced control flow
+- **Bets Management System:** Desktop application designed to manage, register, and calculate betting odds using Java, OOP, Hibernate, and advanced control flow<br>
  [Project Link](https://github.com/silvia-pm-dev/silvia-pm-dev)
 - **Air Quality Monitor (IoT Project):** Autonomous real-time environmental monitoring device integrating microcontrollers and particulate/gas sensors (C/C++, Arduino)
 - **Interactive Web Apps:** Dynamic user interfaces featuring real-time DOM manipulation and responsive styling (JavaScript, HTML5, CSS3)
