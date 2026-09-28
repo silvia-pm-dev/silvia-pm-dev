@@ -17,7 +17,7 @@ Després d'anys d'experiència laboral com a encarregada gestionant estoc, resol
 
 ### Projectes 
 - **Sistema de gestió d'apostes (Bets Management):** Gestió i registre d'apostes amb Java, POO, Hibernate i debugging<br>
-  [Repositori](https://github.com/silvia-pm-dev/silvia-pm-dev)
+  [Repositori](https://github.com/silvia-pm-dev/bet_database)
 - **Monitor de qualitat de l'aire (IoT):** Sistema autònom de lectura ambiental en temps real integrant microcontroladors i sensors de partícules (C/C++, Arduino)
 - **Mini-aplicacions Web Interactives:** Interfícies dinàmiques amb manipulació del DOM i disseny responsiu (JavaScript, HTML5, CSS3)
 
@@ -43,7 +43,7 @@ Tras años de experiencia laboral como encargada gestionando tienda, resolviendo
 
 ### Proyectos 
 - **Sistema de gestión de apuestas (Bets Management):** Aplicación desarrollada en Java con POO, Hibernate, gestión de historiales y debugging.<br>
- [Repositorio](https://github.com/silvia-pm-dev/silvia-pm-dev)
+ [Repositorio](https://github.com/silvia-pm-dev/bet_database)
 - **Monitor de calidad del aire (Proyecto IoT):** Dispositivo autónomo de lectura ambiental en tiempo real mediante microcontroladores y sensores de partículas (C/C++, Arduino)
 - **Mini-aplicacions Web Interactives:** Interfícies dinàmiques amb manipulació del DOM i disseny responsiu (JavaScript, HTML5, CSS3)
 
@@ -70,7 +70,7 @@ Bringing years of professional experience as a store manager handling high-press
 
 ### Projects
 - **Bets Management System:** Desktop application designed to manage, register, and calculate betting odds using Java, OOP, Hibernate, and advanced control flow<br>
- [Repository](https://github.com/silvia-pm-dev/silvia-pm-dev)
+ [Repository](https://github.com/silvia-pm-dev/bet_database)
 - **Air Quality Monitor (IoT Project):** Autonomous real-time environmental monitoring device integrating microcontrollers and particulate/gas sensors (C/C++, Arduino)
 - **Interactive Web Apps:** Dynamic user interfaces featuring real-time DOM manipulation and responsive styling (JavaScript, HTML5, CSS3)
 
