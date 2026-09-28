@@ -47,7 +47,7 @@ Tras años de experiencia laboral como encargada gestionando tienda, resolviendo
  [Repositorio](https://github.com/silvia-pm-dev/bet_database)
 - **Monitor de calidad del aire (Proyecto IoT):** Dispositivo autónomo de lectura ambiental en tiempo real mediante microcontroladores y sensores de partículas (C/C++, Arduino)<br>
 [Repositorio](https://github.com/silvia-pm-dev/sensor-aire)
-- **Mini-aplicacions Web Interactives:** Interfícies dinàmiques amb manipulació del DOM i disseny responsiu (JavaScript, HTML5, CSS3)
+- **Mini-aplicaciones Web Interactivas:** Interfícies dinámicas con manipulación del DOM y diseño responsivo (JavaScript, HTML5, CSS3)
 
 ### Contacto
 - **LinkedIn:** [linkedin.com/in/silvia-poch-massegur](https://www.linkedin.com/in/silvia-poch-massegur/)
